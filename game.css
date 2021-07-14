@@ -1,0 +1,83 @@
+body
+{
+	background-image: url("https://data.1freewallpapers.com/download/tree-alone-dark-evening-4k-1920x1080.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+	.login_div1
+	{
+		background: rgb(13, 194, 240);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+    color: cyan;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: rgb(7, 180, 233);
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#player1_name_input , #player2_name_input
+{
+    border-width: 3px;
+    border-radius: 80px;
+    background-color: blanchedalmond;
+    width: 360px;
+}
+#main_12
+{
+    margin-top: 200px;
+    border-radius: 200px;
+}
+#button_1
+{
+    border-color: coral;
+    border-radius: 50px;
+    font-variant: small-caps;
+    font-size: 28px;
+}
+#player_question
+{
+    color: cornsilk;
+}
+#player_answer
+{
+    color: cornsilk;
+}
+#player1_score
+{
+    color:gold;
+}
+#player2_score
+{
+    color:gold;
+}
+#title1
+{
+    color: hotpink;
+}
+#timer
+{
+    font-size: 36px;
+    color: cornsilk;
+}
